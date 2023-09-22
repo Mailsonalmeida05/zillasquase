@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee712d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #2c95d3;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #13293d;
+      }
+
+      .cls-6 {
+        fill: #016595;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" width="50" height="50"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-4" width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g id="SÍMBOLO">
+      <g class="cls-8">
+        <g class="cls-7">
+          <path class="cls-3" d="m50,25c0,1.93-.22,3.81-.63,5.61h-21.88l1.82-5.61h0s1.82-5.62,1.82-5.62h0l2.5-7.7,2.88-8.88s0,0,0,0c8.01,4.16,13.49,12.54,13.49,22.2"/>
+          <path class="cls-5" d="m25,38.31h21.16c-2.37,3.76-5.7,6.84-9.66,8.89-2.4,1.25-5.03,2.12-7.81,2.53-1.21.18-2.44.27-3.7.27s-2.49-.09-3.7-.27l3.7-11.41h0Z"/>
+          <path class="cls-1" d="m25,11.68H3.84c2.36-3.75,5.7-6.83,9.65-8.88,2.4-1.25,5.03-2.12,7.81-2.53,1.21-.18,2.44-.27,3.7-.27s2.49.09,3.7.27l-3.7,11.41h0Z"/>
+          <path class="cls-6" d="m22.5,19.38l-1.82,5.62-7.2,22.2C5.47,43.03,0,34.65,0,25,0,23.07.22,21.19.63,19.38h21.87Z"/>
+          <polyline class="cls-2" points="25 38.32 25 38.31 25 38.31"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

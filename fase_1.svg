@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 648.29 883.41">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Gradiente_sem_nome_20-10);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-7, .cls-8, .cls-51, .cls-11, .cls-19, .cls-20, .cls-22, .cls-29, .cls-31, .cls-32, .cls-33, .cls-40, .cls-42, .cls-44, .cls-47 {
+        fill: none;
+      }
+
+      .cls-52 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58 {
+        font-family: SpaceGrotesk-Light, 'Space Grotesk';
+        font-variation-settings: 'wght' 300;
+        font-weight: 300;
+      }
+
+      .cls-59 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-2 {
+        stroke: url(#Gradiente_sem_nome_20-34);
+      }
+
+      .cls-61 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-3 {
+        stroke: url(#Gradiente_sem_nome_20-2);
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-9, .cls-10, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-21, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-30, .cls-34, .cls-36, .cls-37, .cls-38, .cls-39, .cls-41, .cls-43, .cls-45, .cls-46, .cls-48, .cls-49, .cls-50 {
+        fill: #ededed;
+      }
+
+      .cls-4 {
+        stroke: url(#Gradiente_sem_nome_20-25);
+      }
+
+      .cls-62 {
+        fill: #ffb522;
+      }
+
+      .cls-62, .cls-51, .cls-63, .cls-64 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        stroke: url(#Gradiente_sem_nome_20-32);
+      }
+
+      .cls-6 {
+        stroke: url(#Gradiente_sem_nome_20-3);
+      }
+
+      .cls-54, .cls-65 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        stroke: url(#Gradiente_sem_nome_20-43);
+      }
+
+      .cls-66 {
+        letter-spacing: 0em;
+      }
+
+      .cls-67 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-68 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-68, .cls-69, .cls-70, .cls-71, .cls-72 {
+        font-family: SpaceGrotesk-Bold, 'Space Grotesk';
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-73 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-74 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-55 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-75 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-77 {
+        letter-spacing: 0em;
+      }
+
+      .cls-78 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-79 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        stroke: url(#Gradiente_sem_nome_20);
+      }
+
+      .cls-80 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-9 {
+        stroke: url(#Gradiente_sem_nome_20-11);
+      }
+
+      .cls-81 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        stroke: url(#Gradiente_sem_nome_20-45);
+      }
+
+      .cls-11 {
+        stroke: url(#Gradiente_sem_nome_20-13);
+      }
+
+      .cls-82 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-83 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-56, .cls-84, .cls-70, .cls-64, .cls-71, .cls-72 {
+        fill: #1d1d1b;
+      }
+
+      .cls-56, .cls-72 {
+        font-size: 13.71px;
+      }
+
+      .cls-12 {
+        stroke: url(#Gradiente_sem_nome_20-48);
+      }
+
+      .cls-13 {
+        stroke: url(#Gradiente_sem_nome_20-39);
+      }
+
+      .cls-85 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-86 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-84, .cls-71 {
+        font-size: 25.1px;
+      }
+
+      .cls-57, .cls-87 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-88 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-89 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-14 {
+        stroke: url(#Gradiente_sem_nome_20-9);
+      }
+
+      .cls-15 {
+        stroke: url(#Gradiente_sem_nome_20-33);
+      }
+
+      .cls-16 {
+        stroke: url(#Gradiente_sem_nome_20-47);
+      }
+
+      .cls-17 {
+        stroke: url(#Gradiente_sem_nome_20-36);
+      }
+
+      .cls-90 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-18 {
+        stroke: url(#Gradiente_sem_nome_20-23);
+      }
+
+      .cls-19 {
+        stroke: url(#Gradiente_sem_nome_20-28);
+      }
+
+      .cls-58 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        stroke: url(#Gradiente_sem_nome_20-40);
+      }
+
+      .cls-21 {
+        stroke: url(#Gradiente_sem_nome_20-41);
+      }
+
+      .cls-22 {
+        stroke: url(#Gradiente_sem_nome_20-4);
+      }
+
+      .cls-23 {
+        stroke: url(#Gradiente_sem_nome_20-21);
+      }
+
+      .cls-91 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-24 {
+        stroke: url(#Gradiente_sem_nome_20-35);
+      }
+
+      .cls-92 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-25 {
+        stroke: url(#Gradiente_sem_nome_20-27);
+      }
+
+      .cls-93 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-26 {
+        stroke: url(#Gradiente_sem_nome_20-14);
+      }
+
+      .cls-27 {
+        stroke: url(#Gradiente_sem_nome_20-30);
+      }
+
+      .cls-94 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-28 {
+        stroke: url(#Gradiente_sem_nome_20-29);
+      }
+
+      .cls-29 {
+        stroke: url(#Gradiente_sem_nome_20-31);
+      }
+
+      .cls-30 {
+        stroke: url(#Gradiente_sem_nome_20-8);
+      }
+
+      .cls-95 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-31 {
+        stroke: url(#Gradiente_sem_nome_20-22);
+      }
+
+      .cls-32 {
+        stroke-width: 2px;
+      }
+
+      .cls-32, .cls-35 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-33 {
+        stroke: url(#Gradiente_sem_nome_20-19);
+      }
+
+      .cls-34 {
+        stroke: url(#Gradiente_sem_nome_20-44);
+      }
+
+      .cls-96 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-97 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-98 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-70 {
+        font-size: 12px;
+      }
+
+      .cls-99 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-35 {
+        fill: #fff;
+      }
+
+      .cls-36 {
+        stroke: url(#Gradiente_sem_nome_20-26);
+      }
+
+      .cls-37 {
+        stroke: url(#Gradiente_sem_nome_20-17);
+      }
+
+      .cls-100 {
+        letter-spacing: 0em;
+      }
+
+      .cls-101 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-38 {
+        stroke: url(#Gradiente_sem_nome_20-24);
+      }
+
+      .cls-39 {
+        stroke: url(#Gradiente_sem_nome_20-18);
+      }
+
+      .cls-40 {
+        stroke: url(#Gradiente_sem_nome_20-46);
+      }
+
+      .cls-41 {
+        stroke: url(#Gradiente_sem_nome_20-38);
+      }
+
+      .cls-102 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-103 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-104 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-105 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-42 {
+        stroke: url(#Gradiente_sem_nome_20-16);
+      }
+
+      .cls-106 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-43 {
+        stroke: url(#Gradiente_sem_nome_20-15);
+      }
+
+      .cls-44 {
+        stroke: url(#Gradiente_sem_nome_20-7);
+      }
+
+      .cls-63 {
+        fill: #e8a021;
+      }
+
+      .cls-107 {
+        letter-spacing: 0em;
+      }
+
+      .cls-108 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-109 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-110 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-45 {
+        stroke: url(#Gradiente_sem_nome_20-20);
+      }
+
+      .cls-111 {
+        letter-spacing: 0em;
+      }
+
+      .cls-112 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-46 {
+        stroke: url(#Gradiente_sem_nome_20-5);
+      }
+
+      .cls-47 {
+        stroke: url(#Gradiente_sem_nome_20-37);
+      }
+
+      .cls-48 {
+        stroke: url(#Gradiente_sem_nome_20-6);
+      }
+
+      .cls-49 {
+        stroke: url(#Gradiente_sem_nome_20-12);
+      }
+
+      .cls-50 {
+        stroke: url(#Gradiente_sem_nome_20-42);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_20" data-name="Gradiente sem nome 20" x1="55.17" y1="133.45" x2="593.12" y2="133.45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#252e38"/>
+      <stop offset="1" stop-color="#263343"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <rect class="cls-51" x="209.84" y="114.57" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-2" data-name="Gradiente sem nome 20" x1="207.58" y1="133.45" x2="249.86" y2="133.45" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-1">
+      <rect class="cls-51" x="540.34" y="114.57" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-3" data-name="Gradiente sem nome 20" x1="538.08" y1="133.45" x2="580.35" y2="133.45" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-4" data-name="Gradiente sem nome 20" y1="180.29" y2="180.29" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-2">
+      <rect class="cls-51" x="209.84" y="161.42" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-5" data-name="Gradiente sem nome 20" x1="207.58" y1="180.29" x2="249.86" y2="180.29" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-3">
+      <rect class="cls-51" x="540.34" y="161.42" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-6" data-name="Gradiente sem nome 20" x1="538.08" y1="180.29" x2="580.35" y2="180.29" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-7" data-name="Gradiente sem nome 20" y1="227.14" y2="227.14" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-4">
+      <rect class="cls-51" x="209.84" y="208.26" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-8" data-name="Gradiente sem nome 20" x1="207.58" y1="227.14" x2="249.86" y2="227.14" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-5">
+      <rect class="cls-51" x="540.34" y="208.26" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-9" data-name="Gradiente sem nome 20" x1="538.08" y1="227.14" x2="580.35" y2="227.14" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-10" data-name="Gradiente sem nome 20" y1="273.98" y2="273.98" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-6">
+      <rect class="cls-51" x="209.84" y="255.11" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-11" data-name="Gradiente sem nome 20" x1="207.58" y1="273.98" x2="249.86" y2="273.98" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-7">
+      <rect class="cls-51" x="540.34" y="255.11" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-12" data-name="Gradiente sem nome 20" x1="538.08" y1="273.98" x2="580.35" y2="273.98" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-13" data-name="Gradiente sem nome 20" y1="320.83" y2="320.83" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-8">
+      <rect class="cls-51" x="209.84" y="301.95" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-14" data-name="Gradiente sem nome 20" x1="207.58" y1="320.83" x2="249.86" y2="320.83" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-9">
+      <rect class="cls-51" x="540.34" y="301.95" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-15" data-name="Gradiente sem nome 20" x1="538.08" y1="320.83" x2="580.35" y2="320.83" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-16" data-name="Gradiente sem nome 20" y1="367.67" y2="367.67" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-10">
+      <rect class="cls-51" x="209.84" y="348.79" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-17" data-name="Gradiente sem nome 20" x1="207.58" y1="367.67" x2="249.86" y2="367.67" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-11">
+      <rect class="cls-51" x="540.34" y="348.79" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-18" data-name="Gradiente sem nome 20" x1="538.08" y1="367.67" x2="580.35" y2="367.67" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-19" data-name="Gradiente sem nome 20" y1="414.51" y2="414.51" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-12">
+      <rect class="cls-51" x="209.84" y="395.64" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-20" data-name="Gradiente sem nome 20" x1="207.58" y1="414.51" x2="249.86" y2="414.51" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-13">
+      <rect class="cls-51" x="540.34" y="395.64" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-21" data-name="Gradiente sem nome 20" x1="538.08" y1="414.51" x2="580.35" y2="414.51" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-22" data-name="Gradiente sem nome 20" y1="461.36" y2="461.36" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-14">
+      <rect class="cls-51" x="209.84" y="442.48" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-23" data-name="Gradiente sem nome 20" x1="207.58" y1="461.36" x2="249.86" y2="461.36" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-15">
+      <rect class="cls-51" x="540.34" y="442.48" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-24" data-name="Gradiente sem nome 20" x1="538.08" y1="461.36" x2="580.35" y2="461.36" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-25" data-name="Gradiente sem nome 20" y1="506.71" y2="506.71" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-16">
+      <rect class="cls-51" x="209.84" y="489.32" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-26" data-name="Gradiente sem nome 20" x1="207.58" y1="508.2" x2="249.86" y2="508.2" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-17">
+      <rect class="cls-51" x="540.34" y="489.32" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-27" data-name="Gradiente sem nome 20" x1="538.08" y1="508.2" x2="580.35" y2="508.2" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-28" data-name="Gradiente sem nome 20" y1="553.56" y2="553.56" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-18">
+      <rect class="cls-51" x="209.84" y="536.17" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-29" data-name="Gradiente sem nome 20" x1="207.58" y1="555.05" x2="249.86" y2="555.05" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-19">
+      <rect class="cls-51" x="540.34" y="536.17" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-30" data-name="Gradiente sem nome 20" x1="538.08" y1="555.05" x2="580.35" y2="555.05" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-31" data-name="Gradiente sem nome 20" y1="600.4" y2="600.4" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-20">
+      <rect class="cls-51" x="209.84" y="583.01" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-32" data-name="Gradiente sem nome 20" x1="207.58" y1="601.89" x2="249.86" y2="601.89" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-21">
+      <rect class="cls-51" x="540.34" y="583.01" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-33" data-name="Gradiente sem nome 20" x1="538.08" y1="601.89" x2="580.35" y2="601.89" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-34" data-name="Gradiente sem nome 20" y1="647.25" y2="647.25" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-22">
+      <rect class="cls-51" x="209.84" y="629.86" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-35" data-name="Gradiente sem nome 20" x1="207.58" y1="648.73" x2="249.86" y2="648.73" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-23">
+      <rect class="cls-51" x="540.34" y="629.86" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-36" data-name="Gradiente sem nome 20" x1="538.08" y1="648.73" x2="580.35" y2="648.73" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-37" data-name="Gradiente sem nome 20" y1="694.09" y2="694.09" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-24">
+      <rect class="cls-51" x="209.84" y="676.7" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-38" data-name="Gradiente sem nome 20" x1="207.58" y1="695.58" x2="249.86" y2="695.58" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-25">
+      <rect class="cls-51" x="540.34" y="676.7" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-39" data-name="Gradiente sem nome 20" x1="538.08" y1="695.58" x2="580.35" y2="695.58" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-40" data-name="Gradiente sem nome 20" y1="740.93" y2="740.93" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-26">
+      <rect class="cls-51" x="209.84" y="723.54" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-41" data-name="Gradiente sem nome 20" x1="207.58" y1="742.42" x2="249.86" y2="742.42" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-27">
+      <rect class="cls-51" x="540.34" y="723.54" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-42" data-name="Gradiente sem nome 20" x1="538.08" y1="742.42" x2="580.35" y2="742.42" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-43" data-name="Gradiente sem nome 20" y1="787.78" y2="787.78" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-28">
+      <rect class="cls-51" x="209.84" y="770.39" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-44" data-name="Gradiente sem nome 20" x1="207.58" y1="789.27" x2="249.86" y2="789.27" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-29">
+      <rect class="cls-51" x="540.34" y="770.39" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-45" data-name="Gradiente sem nome 20" x1="538.08" y1="789.27" x2="580.35" y2="789.27" xlink:href="#Gradiente_sem_nome_20"/>
+    <linearGradient id="Gradiente_sem_nome_20-46" data-name="Gradiente sem nome 20" y1="834.62" y2="834.62" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-30">
+      <rect class="cls-51" x="209.84" y="817.23" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-47" data-name="Gradiente sem nome 20" x1="207.58" y1="836.11" x2="249.86" y2="836.11" xlink:href="#Gradiente_sem_nome_20"/>
+    <clipPath id="clippath-31">
+      <rect class="cls-51" x="540.34" y="817.23" width="37.75" height="37.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_20-48" data-name="Gradiente sem nome 20" x1="538.08" y1="836.11" x2="580.35" y2="836.11" xlink:href="#Gradiente_sem_nome_20"/>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <rect class="cls-62" width="648.29" height="883.41" rx="41.55" ry="41.55"/>
+      <g>
+        <g>
+          <g>
+            <rect class="cls-8" x="55.67" y="114.57" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="119.02" width="153.07" height="29"/>
+              <g>
+                <g class="cls-95">
+                  <rect class="cls-3" x="208.08" y="112.81" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,114.57v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <rect class="cls-35" x="406.15" y="119.02" width="153.07" height="29"/>
+              <g>
+                <g class="cls-85">
+                  <rect class="cls-6" x="538.58" y="112.81" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,114.57v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,137.97l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(331.79 137.97)"><tspan x="0" y="0">TIME 1</tspan></text>
+              <text class="cls-70" transform="translate(418.51 138.33)"><tspan x="0" y="0">TIME 2</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 138.03)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 1</tspan></text>
+            <text class="cls-56" transform="translate(151.61 138.03)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-22" x="55.67" y="161.42" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="165.87" width="153.07" height="29"/>
+              <g>
+                <g class="cls-73">
+                  <rect class="cls-46" x="208.08" y="159.66" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,161.42v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <rect class="cls-35" x="406.15" y="165.87" width="153.07" height="29"/>
+              <g>
+                <g class="cls-99">
+                  <rect class="cls-48" x="538.58" y="159.66" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,161.42v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,184.81l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(329.92 183.18)"><tspan x="0" y="0">TIME 3</tspan></text>
+              <text class="cls-70" transform="translate(418.51 183.18)"><tspan x="0" y="0">TIME 4</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 184.87)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 2</tspan></text>
+            <text class="cls-56" transform="translate(151.61 184.87)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-44" x="55.67" y="208.26" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="212.71" width="153.07" height="29"/>
+              <g>
+                <g class="cls-86">
+                  <rect class="cls-30" x="208.08" y="206.5" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,208.26v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <rect class="cls-35" x="406.15" y="212.71" width="153.07" height="29"/>
+              <g>
+                <g class="cls-106">
+                  <rect class="cls-14" x="538.58" y="206.5" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,208.26v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,231.65l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(330.01 230.02)"><tspan x="0" y="0">TIME 5</tspan></text>
+              <text class="cls-70" transform="translate(418.51 230.02)"><tspan x="0" y="0">TIME 6</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 231.72)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 3</tspan></text>
+            <text class="cls-56" transform="translate(151.61 231.72)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="55.67" y="255.11" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="259.55" width="153.07" height="29"/>
+              <g>
+                <g class="cls-78">
+                  <rect class="cls-9" x="208.08" y="253.35" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,255.11v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <rect class="cls-35" x="406.15" y="259.55" width="153.07" height="29"/>
+              <g>
+                <g class="cls-82">
+                  <rect class="cls-49" x="538.58" y="253.35" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,255.11v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,278.5l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(330.56 276.86)"><tspan x="0" y="0">TIME 7</tspan></text>
+              <text class="cls-70" transform="translate(418.51 276.87)"><tspan x="0" y="0">TIME 8</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 278.56)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 4</tspan></text>
+            <text class="cls-56" transform="translate(151.61 278.56)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-11" x="55.67" y="301.95" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="306.4" width="153.07" height="29"/>
+              <g>
+                <g class="cls-101">
+                  <rect class="cls-26" x="208.08" y="300.19" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,301.95v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <rect class="cls-35" x="406.15" y="306.4" width="153.07" height="29"/>
+              <g>
+                <g class="cls-94">
+                  <rect class="cls-43" x="538.58" y="300.19" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,301.95v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,325.34l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(329.79 323.71)"><tspan x="0" y="0">TIME 9</tspan></text>
+              <text class="cls-70" transform="translate(418.51 323.71)"><tspan x="0" y="0">TIME 10</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 325.4)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 5</tspan></text>
+            <text class="cls-56" transform="translate(151.61 325.4)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-42" x="55.67" y="348.79" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="353.24" width="153.07" height="29"/>
+              <rect class="cls-35" x="406.15" y="353.24" width="153.07" height="29"/>
+              <g>
+                <g class="cls-108">
+                  <rect class="cls-37" x="208.08" y="347.03" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,348.79v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <g>
+                <g class="cls-60">
+                  <rect class="cls-39" x="538.58" y="347.03" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,348.79v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,372.18l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(326.36 370.55)"><tspan x="0" y="0">TIME 11</tspan></text>
+              <text class="cls-70" transform="translate(418.51 370.55)"><tspan x="0" y="0">TIME 12</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 372.25)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 6</tspan></text>
+            <text class="cls-56" transform="translate(151.61 372.25)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-33" x="55.67" y="395.64" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="400.09" width="153.07" height="29"/>
+              <rect class="cls-35" x="406.15" y="400.09" width="153.07" height="29"/>
+              <g>
+                <g class="cls-90">
+                  <rect class="cls-45" x="208.08" y="393.88" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,395.64v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <g>
+                <g class="cls-74">
+                  <rect class="cls-23" x="538.58" y="393.88" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,395.64v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,419.03l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(324.49 417.4)"><tspan x="0" y="0">TIME 13</tspan></text>
+              <text class="cls-70" transform="translate(418.51 417.4)"><tspan x="0" y="0">TIME 14</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 419.09)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 7</tspan></text>
+            <text class="cls-56" transform="translate(151.61 419.09)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-31" x="55.67" y="442.48" width="536.94" height="37.75"/>
+            <g>
+              <rect class="cls-35" x="228.72" y="446.93" width="153.07" height="29"/>
+              <rect class="cls-35" x="406.15" y="446.93" width="153.07" height="29"/>
+              <g>
+                <g class="cls-104">
+                  <rect class="cls-18" x="208.08" y="440.72" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m247.6,442.48v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <g>
+                <g class="cls-76">
+                  <rect class="cls-38" x="538.58" y="440.72" width="41.27" height="41.27"/>
+                </g>
+                <path class="cls-63" d="m578.09,442.48v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+              </g>
+              <path class="cls-64" d="m389.86,465.87l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+              <text class="cls-70" transform="translate(324.59 464.24)"><tspan x="0" y="0">TIME 15</tspan></text>
+              <text class="cls-70" transform="translate(418.51 464.24)"><tspan x="0" y="0">TIME 16</tspan></text>
+            </g>
+            <text class="cls-72" transform="translate(72.91 465.94)"><tspan class="cls-88" x="0" y="0">J</tspan><tspan x="8.11" y="0">OGO 8</tspan></text>
+            <text class="cls-56" transform="translate(151.61 465.94)"><tspan x="0" y="0">MD1</tspan></text>
+          </g>
+        </g>
+        <g>
+          <g>
+            <g>
+              <rect class="cls-4" x="55.67" y="487.84" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="492.28" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="492.28" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-61">
+                    <rect class="cls-36" x="208.08" y="487.57" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,489.32v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-105">
+                    <rect class="cls-25" x="538.58" y="487.57" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,489.32v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,511.23l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(325.14 509.6)"><tspan x="0" y="0">TIME 17</tspan></text>
+                <text class="cls-70" transform="translate(418.51 509.6)"><tspan x="0" y="0">TIME 18</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 511.29)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 9</tspan></text>
+              <text class="cls-56" transform="translate(151.61 511.29)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+            <g>
+              <rect class="cls-19" x="55.67" y="534.68" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="539.13" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="539.13" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-103">
+                    <rect class="cls-28" x="208.08" y="534.41" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,536.17v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-96">
+                    <rect class="cls-27" x="538.58" y="534.41" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,536.17v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,558.07l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(324.37 556.44)"><tspan x="0" y="0">TIME 19</tspan></text>
+                <text class="cls-70" transform="translate(418.51 556.44)"><tspan x="0" y="0">TIME 20</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 558.13)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 10</tspan></text>
+              <text class="cls-56" transform="translate(151.61 558.13)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-29" x="55.67" y="581.52" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="585.97" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="585.97" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-59">
+                    <rect class="cls-5" x="208.08" y="581.25" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,583.01v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-83">
+                    <rect class="cls-15" x="538.58" y="581.25" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,583.01v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,604.92l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(324.66 603.28)"><tspan x="0" y="0">TIME 21</tspan></text>
+                <text class="cls-70" transform="translate(418.51 603.28)"><tspan x="0" y="0">TIME 22</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 604.98)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 11</tspan></text>
+              <text class="cls-56" transform="translate(151.61 604.98)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+            <g>
+              <rect class="cls-2" x="55.67" y="628.37" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="632.82" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="632.82" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-93">
+                    <rect class="cls-24" x="208.08" y="628.1" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,629.86v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-109">
+                    <rect class="cls-17" x="538.58" y="628.1" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,629.86v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,651.76l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(322.79 650.13)"><tspan x="0" y="0">TIME 23</tspan></text>
+                <text class="cls-70" transform="translate(418.51 650.13)"><tspan x="0" y="0">TIME </tspan><tspan class="cls-98" x="30.5" y="0">2</tspan><tspan x="37.44" y="0">4</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 651.82)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 12</tspan></text>
+              <text class="cls-56" transform="translate(151.61 651.82)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-47" x="55.67" y="675.21" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="679.66" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="679.66" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-91">
+                    <rect class="cls-41" x="208.08" y="674.94" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,676.7v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-75">
+                    <rect class="cls-13" x="538.58" y="674.94" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,676.7v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,698.6l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(322.88 696.97)"><tspan x="0" y="0">TIME 25</tspan></text>
+                <text class="cls-70" transform="translate(418.51 696.97)"><tspan x="0" y="0">TIME 26</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 698.67)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 13</tspan></text>
+              <text class="cls-56" transform="translate(151.61 698.67)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+            <g>
+              <rect class="cls-20" x="55.67" y="722.06" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="726.5" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="726.5" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-80">
+                    <rect class="cls-21" x="208.08" y="721.79" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,723.54v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-89">
+                    <rect class="cls-50" x="538.58" y="721.79" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,723.54v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,745.45l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(323.56 743.82)"><tspan x="0" y="0">TIME </tspan><tspan class="cls-66" x="30.5" y="0">2</tspan><tspan class="cls-107" x="37.51" y="0">7</tspan></text>
+                <text class="cls-70" transform="translate(418.51 743.82)"><tspan x="0" y="0">TIME 28</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 745.51)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 14</tspan></text>
+              <text class="cls-56" transform="translate(151.61 745.51)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-7" x="55.67" y="768.9" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="773.35" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="773.35" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-112">
+                    <rect class="cls-34" x="208.08" y="768.63" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,770.39v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-102">
+                    <rect class="cls-10" x="538.58" y="768.63" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,770.39v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,792.29l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(322.72 790.66)"><tspan x="0" y="0">TIME </tspan><tspan class="cls-77" x="30.5" y="0">2</tspan><tspan x="37.58" y="0">9</tspan></text>
+                <text class="cls-70" transform="translate(418.51 790.66)"><tspan x="0" y="0">TIME 30</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 792.35)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 15</tspan></text>
+              <text class="cls-56" transform="translate(151.61 792.35)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+            <g>
+              <rect class="cls-40" x="55.67" y="815.74" width="536.94" height="37.75"/>
+              <g>
+                <rect class="cls-35" x="228.72" y="820.19" width="153.07" height="29"/>
+                <rect class="cls-35" x="406.15" y="820.19" width="153.07" height="29"/>
+                <g>
+                  <g class="cls-92">
+                    <rect class="cls-16" x="208.08" y="815.47" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m247.6,817.23v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <g>
+                  <g class="cls-97">
+                    <rect class="cls-12" x="538.58" y="815.47" width="41.27" height="41.27"/>
+                  </g>
+                  <path class="cls-63" d="m578.09,817.23v37.75h-37.75v-37.75h37.75m4-4h-45.75v45.75h45.75v-45.75h0Z"/>
+                </g>
+                <path class="cls-64" d="m389.86,839.13l2.74-3.8-2.71-3.74h2.22l1.72,2.51h.27l1.72-2.51h2.22l-2.7,3.74,2.73,3.8h-2.25l-1.72-2.54h-.27l-1.72,2.54h-2.25Z"/>
+                <text class="cls-70" transform="translate(324.71 837.5)"><tspan x="0" y="0">TIME </tspan><tspan class="cls-67" x="30.5" y="0">3</tspan><tspan x="37.58" y="0">1</tspan></text>
+                <text class="cls-70" transform="translate(418.51 837.5)"><tspan x="0" y="0">TIME 32</tspan></text>
+              </g>
+              <text class="cls-72" transform="translate(72.91 839.2)"><tspan class="cls-81" x="0" y="0">J</tspan><tspan class="cls-100" x="8.11" y="0">OGO 16</tspan></text>
+              <text class="cls-56" transform="translate(151.61 839.2)"><tspan x="0" y="0">MD1</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text class="cls-84" transform="translate(169.62 44.72)"><tspan class="cls-69" x="0" y="0">1° </tspan><tspan class="cls-68" x="27.61" y="0">F</tspan><tspan class="cls-69" x="39.91" y="0">ASE </tspan><tspan class="cls-57" x="91.32" y="0">-</tspan><tspan class="cls-53" x="102.21" y="0" xml:space="preserve"> CL</tspan><tspan class="cls-58" x="138.51" y="0">Á</tspan><tspan class="cls-53" x="154.17" y="0">SSIFI</tspan><tspan class="cls-54" x="210.55" y="0">C</tspan><tspan class="cls-55" x="226.49" y="0">A</tspan><tspan class="cls-52" x="240.25" y="0">T</tspan><tspan class="cls-53" x="254.2" y="0">ÓRI</tspan><tspan class="cls-58" x="292.68" y="0">A</tspan><tspan class="cls-53" x="308.35" y="0">S</tspan></text>
+      <text class="cls-71" transform="translate(128.95 87.56)"><tspan x="0" y="0">Sor</tspan><tspan class="cls-79" x="40.51" y="0">t</tspan><tspan class="cls-111" x="51.51" y="0">eio dos Co</tspan><tspan class="cls-110" x="176.84" y="0">n</tspan><tspan x="191.95" y="0">f</tspan><tspan class="cls-79" x="202.9" y="0">r</tspan><tspan x="212.38" y="0">o</tspan><tspan class="cls-110" x="227.75" y="0">n</tspan><tspan class="cls-79" x="242.86" y="0">t</tspan><tspan x="253.85" y="0">os em b</tspan><tspan class="cls-79" x="347.05" y="0">r</tspan><tspan class="cls-110" x="356.54" y="0">ev</tspan><tspan class="cls-65" x="384.08" y="0">e</tspan><tspan class="cls-87" x="398.41" y="0">.</tspan></text>
+      <g>
+        <polyline class="cls-32" points="592.62 132.57 619.56 132.57 619.56 179.84 592.62 179.84"/>
+        <line class="cls-32" x1="648.29" y1="155.84" x2="619.56" y2="155.84"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 225.69 619.56 225.69 619.56 272.96 592.62 272.96"/>
+        <line class="cls-32" x1="648.29" y1="248.95" x2="619.56" y2="248.95"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 318.8 619.56 318.8 619.56 366.08 592.62 366.08"/>
+        <line class="cls-32" x1="648.29" y1="342.07" x2="619.56" y2="342.07"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 411.92 619.56 411.92 619.56 459.19 592.62 459.19"/>
+        <line class="cls-32" x1="648.29" y1="435.19" x2="619.56" y2="435.19"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 505.04 619.56 505.04 619.56 552.31 592.62 552.31"/>
+        <line class="cls-32" x1="648.29" y1="528.3" x2="619.56" y2="528.3"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 598.16 619.56 598.16 619.56 645.43 592.62 645.43"/>
+        <line class="cls-32" x1="648.29" y1="621.42" x2="619.56" y2="621.42"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 691.27 619.56 691.27 619.56 738.55 592.62 738.55"/>
+        <line class="cls-32" x1="648.29" y1="714.54" x2="619.56" y2="714.54"/>
+      </g>
+      <g>
+        <polyline class="cls-32" points="592.62 784.39 619.56 784.39 619.56 831.66 592.62 831.66"/>
+        <line class="cls-32" x1="648.29" y1="807.66" x2="619.56" y2="807.66"/>
+      </g>
+    </g>
+  </g>
+</svg>

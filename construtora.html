@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Construtora</title>
+	<link rel="stylesheet" type="text/css" href="css/construtora.css">
+	<link rel="stylesheet" type="text/css" href="css/slider.css">
+	<link rel="shortcut icon" href="simbolo_zillas.svg" type="image/x-icon">
+
+	<!---box icons link--->
+	<link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+
+    <!---remix icons link--->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+    <!---Google fonts link--->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+</head>
+<body>
+
+	<!---header-->
+	<header>
+		<img src="img/marca_zillas.svg" width="16%">
+
+		<div class="bx bx-menu" id="menu-icon"></div>
+
+		<ul class="navlist">
+			<li><a href="Index.html">Inicio</a></li>
+			<li><a href="#about">Sobre</a></li>
+			<li><a href="#services">Serviços</a></li>
+			<li><a href="#portfolio">Empreendimentos</a></li>
+			<li><a href="#contact">Contato</a></li>
+		</ul>
+
+		<div class="top-btnn">
+			<a href="#" class="h-btn" style="color:black;">Contato</a>
+		</div>
+	</header>
+<div></div>
+	<!---hero-->
+	   <div class="containerproje">
+        <div class="slide-container active">
+            <div class="slide">
+             <div class="contentproje">
+               <h3>Casas Finalizadas</h3>
+               <p>Verifique algumas casas finalizada por nossa equipe</p>
+               <a href="#" class="bntproj">Ver projetos</a>
+             </div>
+            </div>
+        </div>
+
+        <div class="slide-container">
+            <div class="slide">
+             <div class="contentproje">
+               <h3>Plantas</h3>
+               <p>Arquitetos prontos para te atender</p>
+               <a href="#" class="bntproj">Saiba mais</a>
+             </div>
+            </div>
+        </div>
+
+  
+
+        
+        <div id="prev" onclick="prev()"> < </div>
+        <div id="next" onclick="next()"> > </div>
+    </div>
+	<!--fim slider -->
+	<section class="hero" id="home">
+		<div class="main-content" data-aos="fade-in">
+			
+			<h1>Importância <span>De uma construtora</span></h1>
+			<p style="text-align: justify;">AA importância de uma construtora vai além do canteiro de obra e da finalização profissional do projeto. A importância de uma construtora tem a ver com liderança, gerenciamento, qualidade e segurança</p>
+<p style="text-align: justify;">Em termos mais técnicos, “a construtora é responsável pela solidez e segurança da obra, nos cinco anos seguintes à entrega da edificação, sendo de dez anos o prazo prescricional da ação contra a construtora em relação a defeitos verificados no período de sua responsabilização”.</p>
+
+		</div>
+
+		<div class="about-img" data-aos="zoom-in-down">
+			<img src="foto_sobre.svg">
+		</div>
+
+		
+	</section>
+
+	<!---services-->
+	
+
+	<!---portfolio-->
+	<section class="portfolio" id="portfolio">
+		<div class="center-text" data-aos="fade-down">
+			<h2>Projetos em <span>Andamentos</span></h2>
+		</div>
+
+		<div class="Portfolio-content" data-aos="zoom-in-up">
+			<div class="row">
+				<img src="https://s2.glbimg.com/zWIi88YYXNWqucsUlm-fQDQSSHs=/940x523/e.glbimg.com/og/ed/f/original/2017/02/16/predio.jpeg">
+				<div class="main-row">
+					<div class="row-text">
+						<h5>Jacobina, BA</h5>
+					</div>
+					<div class="row-icon">
+						<img src="icone_localizacao.png">
+					</div>
+				</div>
+				<h4>Prédio em processo de acabamento</h4>
+			</div>
+
+			<div class="row">
+				<img src="https://imagens-revista.vivadecora.com.br/uploads/2018/06/constru%C3%A7%C3%A3o-de-casas-com-telhas-de-fibrocimento.jpg">
+				<div class="main-row">
+					<div class="row-text">
+						<h5>Conceição do Coite, BA</h5>
+					</div>
+					<div class="row-icon">
+						<img src="icone_localizacao.png">
+					</div>
+				</div>
+				<h4>Casa Pronta em apenas 3 meses</h4>
+			</div>
+
+			<div class="row">
+				<img src="https://i0.wp.com/blog.globaltechbrasil.com/wp-content/uploads/2022/02/3-1.jpg?w=750&ssl=1">
+				<div class="main-row">
+					<div class="row-text">
+						<h5>Morro do Chapeu</h5>
+					</div>
+					<div class="row-icon">
+						<img src="icone_localizacao.png">
+					</div>
+				</div>
+				<h4>Área de lazer</h4>
+			</div>
+
+
+		</div>
+	</section>
+
+
+
+	<!---contact-->
+	<section class="contact" id="contact">
+		<div class="center-text" data-aos="fade-down">
+			<h2>Solicite um <span> orçamento</span></h2>
+		</div>
+
+		<div class="contact-form" data-aos="zoom-in">
+			<form action="">
+				<input type="text" placeholder="Seu nome" required>
+				<input type="email" placeholder="Seu Email" required>
+				<textarea name="" id="" cols="30" rows="10" placeholder="Qual seria o projeto?" required></textarea>
+				<input type="submit" name="" value="Enviar" class="send-btn">
+			</form>
+		</div>
+	</section>
+
+
+  <footer>
+
+        <div class="container__footer">
+            <div class="footer-content">
+                <div>
+                    <div class="our-group">
+                      <h2>Nosso Grupo</h3>
+                      <div class="our-group">
+                        <img src="marcagroplan23.svg" alt="">
+                        <img src="MARCAGIRASSOL.svg" alt="">
+                      </div>
+                    </div>
+                </div>
+            
+              <div class="footer-text">
+                  <p>Seu Investimento Seguro e Confiavel!</p>
+              </div>
+                <div class="socialMedia">
+                    <h2 >Redes Sociais</h2>
+                    <div>
+                        <a  href="https://www.instagram.com/agroplan_assessoria/"><image width="30px" src="instaIcon.png" alt="Instagram"/> Instagram</a>
+                        <a  href="https://wa.me/557436210954?text=Ol%C3%A1%2C+vim+pelo+site."><image width="30px" src="wppIcon.png" alt="WhatsApp"/> WhatsApp</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="box__copyright">
+            <p>Todos os direitos reservados © 2023 <b>Zilla's Prime</b></p>
+        </div>
+    </footer>
+    
+          
+
+	<!---js link-->
+	<script src="js/script.js"></script>
+	<script src="js/slider.js"></script>
+
+	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+    AOS.init({
+    	offset: 300,
+    	duration: 1400,
+    });
+    </script>
+
+</body>
+</html>
